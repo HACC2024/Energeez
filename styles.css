@@ -1,0 +1,10 @@
+#back {
+    background:red;
+    width:200px;
+    height:40px;
+}
+#front {
+    background:yellow;
+    width:200px;
+    height:40px;
+}
