@@ -1,10 +1,19 @@
 #back {
-    background:red;
-    width:200px;
+    background:#213238;
+    width:100%;
     height:40px;
 }
 #front {
-    background:yellow;
-    width:200px;
+    background:rgb(23, 219, 5);
+    width:0%;
     height:40px;
+}
+
+body {
+    padding: 10px;
+    background-color: #244855
+}
+
+div {
+    border-radius: 25px;
 }
