@@ -12,5 +12,5 @@
 
 <ul>
   <li>Download Java</li>
-  <li></li></li>
+  <li>Launch program</li>
 </ul>
