@@ -1,2 +1,11 @@
-# HACC-2024-Submission
-Submission for the Hawaiian Annual Code Challenge 2024
+<h1>Energeez</h1>
+
+<p>Hawaii Keiki Museum (HKM) – Energy Usage Display</p>
+
+<h2>Overview</h2>
+<p>This program shows energy usage through images.</p>
+
+<hr>
+
+<h2>Instructions</h2>
+<p>Launch with Java and extract all to the same directory</p>
