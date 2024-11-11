@@ -9,3 +9,8 @@
 
 <h2>Instructions</h2>
 <p>Launch with Java and extract all to the same directory</p>
+
+<ul>
+  <li>Download Java</li>
+  <li></li></li>
+</ul>
