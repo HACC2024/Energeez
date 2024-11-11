@@ -1,6 +1,0 @@
-{
-    "java.format.settings.url": ".vscode/java-formatter.xml",
-    "files.exclude": {
-    "**/.settings": false
-  }
-}
